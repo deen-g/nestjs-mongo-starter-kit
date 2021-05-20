@@ -61,7 +61,9 @@ $ npm run test:cov
 ## Support
 
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-Mogodb database: make sure you setup your connection to db with your uri at the config/keys.ts file 
+
+## Mogodb database: 
+- make sure you setup your connection to db with your uri at the config/keys.ts file 
 
 ## Stay in touch
 
